@@ -1,0 +1,7 @@
+package net 
+
+object Foo {
+
+       def f: Int = 100
+
+}
